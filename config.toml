@@ -49,13 +49,11 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 
 [Instagram]
-arch = "both"
 version = "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [Infinity]
-arch = "both"
 version = "auto"
 patcher-args = "-Oclient-id=KT5eNphV2qd3X-uSoTvlMQ "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
