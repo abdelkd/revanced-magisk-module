@@ -15,18 +15,19 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[GooglePhotos]
-build-mode = "both"
-arch = "both"
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+# [GooglePhotos]
+# build-mode = "both"
+# arch = "both"
+# version = "auto"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+# uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
-[Twitch]
-arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
-uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+# [Twitch]
+# arch = "both"
+# version = "latest"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
+# uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [Twitter]
 arch = "both"
