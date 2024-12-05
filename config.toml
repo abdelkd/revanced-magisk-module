@@ -48,7 +48,7 @@ arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 arch = "both"
 
-[Infinity For Reddit]
+[Infinity]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
 patcher-args = "-Oclient-id=KT5eNphV2qd3X-uSoTvlMQ "
 
