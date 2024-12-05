@@ -7,9 +7,10 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
+arch = "both"
+version = "auto"
 included-patches = "'Enable slide to seek'"
 excluded-patches = "'Alternative thumbnails' 'Bypass image region restrictions'"
-version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
@@ -28,22 +29,34 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [Twitter]
-enabled = true
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
+arch = "both"
+version = "auto"
 build-mode = "apk"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
+uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [TikTok]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+arch = "both"
+version = "auto"
 included-patches = "'SIM spoof'"
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Messenger]
+arch = "both"
+version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
+uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 
 [Instagram]
+arch = "both"
+version = "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [Infinity]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
+arch = "both"
+version = "auto"
 patcher-args = "-Oclient-id=KT5eNphV2qd3X-uSoTvlMQ "
-
-
+apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
+uptodown-dlurl = "https://infinity-for-reddit.en.uptodown.com/android"
