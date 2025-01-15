@@ -1,9 +1,9 @@
+Boost: 1.12.12  
 Infinity (arm64-v8a): 7.4.1  
 Infinity (arm-v7a): 7.4.1  
-Instagram: 361.0.0.46.88  
+Instagram: 363.0.0.29.80  
 Messenger (arm64-v8a): 439.0.0.29.119  
 TikTok (arm64-v8a): 36.5.4  
-TikTok (arm-v7a): 36.5.4  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
