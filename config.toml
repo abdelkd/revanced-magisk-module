@@ -59,3 +59,6 @@ arch = "both"
 patcher-args = "-Oclient-id=KT5eNphV2qd3X-uSoTvlMQ "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
 uptodown-dlurl = "https://infinity-for-reddit.en.uptodown.com/android"
+
+[Boost]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/"
