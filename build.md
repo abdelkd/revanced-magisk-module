@@ -1,7 +1,7 @@
 Boost: 1.12.12  
 Infinity (arm64-v8a): 7.4.1  
 Infinity (arm-v7a): 7.4.1  
-Instagram: 367.0.0.43.89  
+Instagram: 369.0.0.46.101  
 Messenger (arm64-v8a): 439.0.0.29.119  
 TikTok (arm64-v8a): 36.5.4  
 
@@ -11,4 +11,4 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.12.0.rvp    
+Patches: ReVanced/patches-5.13.0.rvp    
