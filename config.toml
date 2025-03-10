@@ -14,6 +14,9 @@ excluded-patches = "'Alternative thumbnails' 'Bypass image region restrictions'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
+[Music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+
 # [GooglePhotos]
 # build-mode = "both"
 # arch = "both"
